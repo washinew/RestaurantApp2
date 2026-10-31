@@ -11,6 +11,7 @@ namespace RestaurantApp2
         static void Main(string[] args)
         {
             Console.WriteLine("https://github.com/washinew/RestaurantApp2.git");
+            Console.WriteLine("Natthawut");
 
 
 
@@ -18,7 +19,20 @@ namespace RestaurantApp2
 
 
 
-            Console.WriteLine("Mo");
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("14");
 
 
         }
