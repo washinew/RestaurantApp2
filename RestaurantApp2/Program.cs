@@ -44,7 +44,7 @@ namespace RestaurantApp2
             
             
             
-            Console.WriteLine("ปรัชญา ปานนาค เลขที่ 27 ");
+            Console.WriteLine("ปรัชญา ปานนาค");
 
         }
     }
