@@ -10,7 +10,46 @@ namespace RestaurantApp2
     {
         static void Main(string[] args)
         {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("Methapat kubpeee");
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("Krittin");
+
+
             Console.WriteLine("https://github.com/washinew/RestaurantApp2.git");
+            Console.WriteLine("Natthawut");
 
 
 
@@ -19,6 +58,42 @@ namespace RestaurantApp2
 
 
 
+
+
+
+
+
+
+
+
+            Console.WriteLine("Suparuj Somboon");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("15");
+
+
+
+
+            Console.WriteLine("14");
 
 
 
