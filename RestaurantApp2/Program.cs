@@ -21,6 +21,32 @@ namespace RestaurantApp2
 
 
 
+<<<<<<< HEAD
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            Console.WriteLine("ปรัชญา ปานนาค");
+=======
 
 
 
@@ -95,6 +121,7 @@ namespace RestaurantApp2
 
             Console.WriteLine("14");
 
+>>>>>>> 16f0ab6d997e97ae4eb5940f91c7b2c1dfcabe5d
 
 
 
