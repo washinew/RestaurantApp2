@@ -10,6 +10,28 @@ namespace RestaurantApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Natthawut Jampangam");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("14");
         }
     }
 }
