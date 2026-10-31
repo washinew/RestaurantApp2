@@ -10,7 +10,7 @@ namespace RestaurantApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Natthawut Jampangam");
+            Console.WriteLine("https://github.com/washinew/RestaurantApp2.git");
 
 
 
@@ -21,17 +21,6 @@ namespace RestaurantApp2
 
 
 
-
-
-
-
-
-
-
-
-
-
-            Console.WriteLine("14");
         }
     }
 }
