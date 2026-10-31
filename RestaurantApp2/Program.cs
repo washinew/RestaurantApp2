@@ -21,6 +21,7 @@ namespace RestaurantApp2
 
 
 
+<<<<<<< HEAD
             
             
             
@@ -45,6 +46,82 @@ namespace RestaurantApp2
             
             
             Console.WriteLine("ปรัชญา ปานนาค");
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("Methapat kubpeee");
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("Krittin");
+
+
+            Console.WriteLine("https://github.com/washinew/RestaurantApp2.git");
+            Console.WriteLine("Natthawut");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("Suparuj Somboon");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("15");
+
+
+
+
+            Console.WriteLine("14");
+
+>>>>>>> 16f0ab6d997e97ae4eb5940f91c7b2c1dfcabe5d
 
         }
     }
