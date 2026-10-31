@@ -48,7 +48,7 @@ namespace RestaurantApp2
 
 
 
-Console.WriteLine("Nattapon!"); 
+Console.WriteLine("Nattapoln!"); 
         }
     }
 }
