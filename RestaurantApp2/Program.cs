@@ -20,6 +20,31 @@ namespace RestaurantApp2
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("Methapat kubpeee");
+
+
+
+
+
+
+
+
+
+
             Console.WriteLine("Krittin");
 
 
@@ -34,6 +59,29 @@ namespace RestaurantApp2
 
 
 
+            Console.WriteLine("Suparuj Somboon");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("15");
         }
     }
 }
