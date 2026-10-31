@@ -34,7 +34,7 @@ namespace RestaurantApp2
 
 
 
-            Console.WriteLine("Methapat kubpee");
+            Console.WriteLine("Methapat kubpeee");
             Console.WriteLine("https://github.com/washinew/RestaurantApp2.git");
 
 
