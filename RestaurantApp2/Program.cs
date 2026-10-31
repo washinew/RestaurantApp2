@@ -10,29 +10,6 @@ namespace RestaurantApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Suparuj Somboon");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Console.WriteLine("15");
         }
     }
 }
