@@ -10,6 +10,17 @@ namespace RestaurantApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("https://github.com/washinew/RestaurantApp2.git");
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
